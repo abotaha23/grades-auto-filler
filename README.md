@@ -27,6 +27,6 @@ correct and in red otherwise as you can see in the following photo
 
 ![corrected paper](https://github.com/itsHamdySalem/grades-auto-filler/assets/70281704/caa4df3f-c96c-4921-8751-e2169c80eb67)
 
-and an excel sheet containing the details of each student
+and an excel sheet containing the details of each student,
 
 also a single excel sheet containing the details of all students.
